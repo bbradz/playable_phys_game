@@ -7,3 +7,4 @@
 
 2b. Else: ``python asteroids.py``
 
+This is not a complicated repo haha, just intended to help you all have something to play with and inspire engagement.
